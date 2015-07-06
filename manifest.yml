@@ -1,6 +1,6 @@
 applications:
 - disk_quota: 1024M
-  host: Demowebapp-smith
+  host: DemoWebapp-smith
   name: DemoWebApp-smith
   path: webStarterApp.war
   domain: mybluemix.net
